@@ -1,1 +1,1 @@
-This is a simple example of MCP server which shows the current date.
+This is a simple example of FastMCP server which shows the current date.
